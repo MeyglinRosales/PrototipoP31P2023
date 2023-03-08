@@ -1,0 +1,41 @@
+commit 5c0795acb0491bab6110a2db9bef91b5d8968a08
+Merge: 00648fc baac860
+Author: MeyglinRosales <98365164+MeyglinRosales@users.noreply.github.com>
+Date:   Mon Mar 6 12:50:26 2023 -0600
+
+    Merge pull request #2 from MeyglinRosales/RamaContenedor9959214490
+    
+     agregando rama de contenedor, base del programa
+
+commit 00648fcb3f225cf08152ad7407fa0629da94a0d0
+Merge: f192931 0f9223c
+Author: MeyglinRosales <98365164+MeyglinRosales@users.noreply.github.com>
+Date:   Mon Mar 6 12:50:05 2023 -0600
+
+    Merge pull request #1 from MeyglinRosales/RamaMantenimientos9959214490
+    
+    agregando rama de mantenimiento
+
+commit f192931c5dd270003abd0418876b20649b6a044b
+Author: MeyglinRosales <mrosaleso3@miumg.edu.gt>
+Date:   Mon Mar 6 12:47:07 2023 -0600
+
+    agregando bitacora
+
+commit 0f9223cbcd4a213e25415a142583696e4d940f3d
+Author: MeyglinRosales <mrosaleso3@miumg.edu.gt>
+Date:   Mon Mar 6 12:43:37 2023 -0600
+
+    agregando rama de mantenimiento
+
+commit baac8607415dc3f7f274c7f647bc8b67ba1294e0
+Author: MeyglinRosales <mrosaleso3@miumg.edu.gt>
+Date:   Mon Mar 6 12:03:35 2023 -0600
+
+     agregando rama de contenedor, base del programa
+
+commit a98da44e93f660bec85a7dee29d77d598dc35306
+Author: MeyglinRosales <98365164+MeyglinRosales@users.noreply.github.com>
+Date:   Mon Mar 6 11:58:07 2023 -0600
+
+    Initial commit
